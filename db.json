@@ -1,0 +1,69 @@
+{
+    "newsletter": [
+        {
+            "id": "2022-01-05T08:53:31.443Z",
+            "email": "test@test.com"
+        },
+        {
+            "id": "2022-01-05T08:53:47.993Z",
+            "email": "anshul3140@gmail.com"
+        },
+        {
+            "id": "2022-01-05T08:56:14.354Z",
+            "email": "data@data.com"
+        },
+        {
+            "id": "2022-01-05T09:23:30.234Z",
+            "email": "anshul3140@gmail.com"
+        },
+        {
+            "id": "2022-01-05T09:23:49.834Z",
+            "email": "test@test.com"
+        },
+        {
+            "id": "2022-01-05T09:33:07.593Z",
+            "email": "test@test.com"
+        },
+        {
+            "id": "2022-01-05T10:36:19.033Z",
+            "email": "test@test.com"
+        }
+    ],
+    "contact": [
+        {
+            "id": "2022-01-05T10:04:31.252Z",
+            "name": "afasfd",
+            "email": "asfasafd",
+            "subject": "adfafadsf",
+            "description": "adfasdfadsfaf"
+        },
+        {
+            "id": "2022-01-05T10:06:09.413Z",
+            "name": "asdas",
+            "email": "asdasds",
+            "subject": "asdasda",
+            "description": "asdasdasd"
+        },
+        {
+            "id": "2022-01-05T10:07:04.832Z",
+            "name": "test",
+            "email": "test@test.com",
+            "subject": "testing",
+            "description": "test test test test"
+        },
+        {
+            "id": "2022-01-05T10:36:58.437Z",
+            "name": "asfsd",
+            "email": "asdasfa",
+            "subject": "asdasd",
+            "description": "asdsdgdfgdfgd"
+        },
+        {
+            "id": "2022-01-10T10:41:51.854Z",
+            "name": "ansh",
+            "email": "asdas",
+            "subject": "asd",
+            "description": "asd"
+        }
+    ]
+}
